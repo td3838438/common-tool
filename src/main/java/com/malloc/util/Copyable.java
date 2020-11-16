@@ -14,6 +14,7 @@ public class Copyable implements Serializable {
 
     private static final long serialVersionUID = 2759261515543521930L;
 
+
     /**
      * 通过序列化、反序列化，深度拷贝对象
      * @return

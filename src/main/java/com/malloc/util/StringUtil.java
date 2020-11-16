@@ -1,6 +1,8 @@
 package com.malloc.util;
 
 /**
+ * 字符串工具类
+ *
  * @author tuyh3(tuyh3 @ asiainfo.com)
  * @desc
  * @date 2020/11/13 11:40
