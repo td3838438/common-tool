@@ -167,7 +167,7 @@ public final class ExcelUtil {
 	}
 
 	/**
-	 * 获取excel的sheet的row中第iColumIndex索引列的内容
+	 * 获取 excel 的 sheet 的 row 中第 iColumIndex 索引列的内容
 	 *
 	 * @param row
 	 * @param iColumIndex
@@ -199,7 +199,7 @@ public final class ExcelUtil {
 	}
 
 	/**
-	 * 获取excel中第iSheet索引sheet第iRowIndex索引行第iColumIndex索引列的内容
+	 * 获取 excel 中第 iSheet 索引 sheet 第 iRowIndex 索引行第 iColumIndex 索引列的内容
 	 *
 	 * @param workbook
 	 * @param iSheet
@@ -215,7 +215,7 @@ public final class ExcelUtil {
 	}
 
 	/**
-	 * 获取excel的sheet中iRowIndex行数据
+	 * 获取 excel 的 sheet 中 iRowIndex 行数据
 	 *
 	 * @param sheet
 	 * @param iRowIndex
@@ -254,7 +254,7 @@ public final class ExcelUtil {
 	}
 
 	/**
-	 * 获取excel中第iSheet索引sheet中iRowIndex行数据
+	 * 获取 excel 中第 iSheet 索引 sheet 中 iRowIndex 行数据
 	 *
 	 * @param workbook
 	 * @param iSheet
